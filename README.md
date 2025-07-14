@@ -5,6 +5,62 @@ This repository is for learning a collection of DSA patterns to crack MAANG, Mic
 ---
 
 <details>
+<summary><strong>Arrays</strong></summary>
+
+- **Pattern 1: Sliding Window**
+  - Maximum Sum Subarray of Size K
+  - Longest Substring with K Distinct Characters
+  - Minimum Size Subarray Sum
+  - Longest Subarray with Ones after Replacement
+  - Permutation in String
+- **Pattern 2: Two Pointers**
+  - Pair with Target Sum
+  - Remove Duplicates from Sorted Array
+  - Squaring a Sorted Array
+  - Triplet Sum to Zero
+  - Subarrays with Product Less than K
+- **Pattern 3: Prefix Sum**
+  - Subarray Sum Equals K
+  - Find Pivot Index
+  - Range Sum Query
+  - Contiguous Array
+  - Maximum Size Subarray Sum Equals k
+- **Pattern 4: Binary Search**
+  - Search in Rotated Sorted Array
+  - Find Minimum in Rotated Sorted Array
+  - Median of Two Sorted Arrays
+  - Find Peak Element
+  - Search Insert Position
+- **Pattern 5: Merge Intervals**
+  - Merge Intervals
+  - Insert Interval
+  - Non-overlapping Intervals
+  - Meeting Rooms II
+  - Interval List Intersections
+- **Pattern 6: Cyclic Sort**
+  - Find All Numbers Disappeared in an Array
+   - Find Duplicate Number
+  - Set Mismatch
+  - First Missing Positive
+  - Find All Duplicates in an Array
+- **Pattern 7: Top K Elements**
+  - Top K Frequent Numbers
+  - Kth Largest Element in an Array
+  - K Closest Numbers
+  - Frequency Sort
+  - Sort Characters by Frequency
+- **Pattern 8: In-place Array Manipulation**
+  - Move Zeroes
+  - Rotate Array
+  - Remove Element
+  - Sort Colors
+  - Next Permutation
+
+</details>
+
+---
+
+<details>
 <summary><strong>Strings</strong></summary>
 
 - **Pattern 1: KMP Algorithm**
